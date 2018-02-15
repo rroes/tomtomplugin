@@ -21,5 +21,7 @@
       </feature>
     </config-file>
     <source-file src="src/android/TomTomPlugin.java" target-dir="src/com/metawarelabs/tomtomplugin" />
+    <source-file src="src/android/android-support-v4.jar" target-dir="libs" />
+    <source-file src="src/android/navappclient.jar" target-dir="libs" />
   </platform>           
 </plugin>
