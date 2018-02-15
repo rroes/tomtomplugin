@@ -28,7 +28,6 @@ import com.tomtom.navapp.Trip.SpeedShieldLuminance;
 import com.tomtom.navapp.ErrorCallback;
 import android.content.Context;
 import android.os.Bundle;
-import android.support.v4.app.Fragment;
 import android.text.TextUtils;
 import android.text.method.ScrollingMovementMethod;
 import android.util.Log;
